@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ruiyotabby
-- 👀 I’m interested in InfoSec/CyberSec
-- 🌱 I’m currently learning how to make exploits
-- 💞️ I’m looking to collaborate on penetration testing and red teaming
-- 📫 How to reach me ...
+- 👀 I’m a web developer with some experience in Django
+- 🌱 I’m currently doing hobby projects, feel free to to invite me on any web or mobile app development
+- 💞️ I’m looking to collaborate on open source and proprietary 
+- 📫 How to reach me @ruiyotabby@gmail.com
 
 <!---
 ruiyotabby/ruiyotabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
