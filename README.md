@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruiyotabby
+- 👋 Hi, I’m Ruiyot Abby
 - 👀 I’m a web developer with some experience in Django
 - 🌱 I’m currently doing hobby projects, feel free to to invite me on any web or mobile app development
 - 💞️ I’m looking to collaborate on open source and proprietary 
