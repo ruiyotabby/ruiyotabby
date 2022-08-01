@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ruiyot Abby
-- 👀 I’m an android and ios mobile developer with experience in Flutter
-- 🌱 I’m currently doing hobby projects, feel free to to invite me on any mobile app development
-- 💞️ I’m looking to collaborate on open source and proprietary 
+- 👀 I’m a flutter mobile developer
+- 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me @ruiyotabby@gmail.com
 
 <!---
