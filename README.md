@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruiyot Abby
-- 👀 I’m a flutter mobile developer
+- 👀 I’m a flutter mobile developer and javascript web developer
 - 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me @ruiyotabby@gmail.com
 
