@@ -1,5 +1,5 @@
 - Hi, I’m Ruiyot Abby
-- I’m a software developer with experience in Ruby on Rails, React, node.js, Hotwire, Ruby, Javascript, HTML/CSS
+- I’m a software developer with experience in Ruby on Rails, React, node.js, Typescript, Ruby, Javascript, HTML/CSS
 - I’m looking to collaborate on any type of projects
 - You can reach me at @ruiyotabby@gmail.com
 
