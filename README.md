@@ -1,7 +1,7 @@
-- Hi, I’m Ruiyot Abby
+- Hi, I’m Abdi Wallace
 - I’m a software developer with experience in Ruby on Rails, React, node.js, Typescript, Ruby, Javascript, HTML/CSS
 - I’m looking to collaborate on any type of projects
-- You can reach me at @ruiyotabby@gmail.com
+- You can reach me at @karonabi01@gmail.com
 
 <!---
 ruiyotabby/ruiyotabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
